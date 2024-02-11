@@ -1,0 +1,16 @@
+WELCOME TO THE TOP MAKER MODULE ^^
+
+The module consists of 2 options that you can activate with one of the buttons on the initial 
+    screen of this module
+
+RATE OPTION - it allows you to add ratings to Eurovision Song Contest songs from a selected 
+        characteristic group, then it saves the assigned ratings to a text file in alphabetical
+        order and calculates the average rating
+
+TOP OPTION - it allows you to add ratings to the songs from the Eurovision Song Contest from the 
+        selected characteristic group, then it sorts the songs with user ratings and displays them 
+        in the form of a list, on the basis of which, selecting the next countries in the right order,  
+        you create your top (ranking) songs, which is saved to a text file
+
+You can interrupt each process at any time using the RESET button
+All files are saved in the TOPMAKERFILES folder, you can get to it using the button with the folder icon

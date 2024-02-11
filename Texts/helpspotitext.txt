@@ -1,0 +1,12 @@
+WELCOME TO THE SPOTIFY APP MODULE ^^
+
+The module allows you to load the currently listened song from Spotify and then add its rating
+
+When you have at least one song rated, buttons are activated that allow you to create a file    
+with only the ratings or create a full top (ranking) of songs
+
+The loaded songs have direct titles and a list of artists that are in the Spotify database (Spotify API), 
+but the program allows editing for the user's needs (shortening the title, changing artists)
+
+You can interrupt process at any time using the RESET button
+All files are saved in the SPOTIFYAPPFILES folder, you can get to it using the button with the folder icon

@@ -1,0 +1,14 @@
+WELCOME TO THE YOURVISION 2022 APP ^^
+
+The application consists of three modules, which you can access using the buttons in the MAIN MENU
+
+NOTEBOOK - allows you to learn the most important information about the songs that participated in the 
+        Eurovision Song Contest 2022, additionally contains links to YouTube and Spotify, where you 
+        can listen to them
+
+TOP MAKER - here you can rate all the songs (or some of them belong to one of the characteristic groups)
+        taking part in Eurovision 2022, create a ranking for them - in the Eurovision community the 
+        word top is used
+
+SPOTIFY APP - just like in the TOP MAKER module, you can create a top (ranking) of songs here, but 
+        in this case you load songs from your spotify account - the currently listened song is loaded
