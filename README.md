@@ -1,6 +1,10 @@
 # yourvision_2022
 Geoinformatics - 2nd semester informatics project
 
+The first major programming project focused on object-oriented programming and creating a program with a graphical user interface (GUI). It mainly utilizes the Tkinter library in Python. Apart from developing the application itself, the project allowed for familiarizing with the functionality and capabilities of the Tkinter library.
+
+
+
 Project Title: 
 Eurovision YourVision 2022 App
 
